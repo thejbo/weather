@@ -1,0 +1,34 @@
+---
+influx:
+  token: ""
+  org: ""
+  bucket: ""
+  influx_url: ""
+
+envoy:
+  host_url: ""
+  host_url2: ""
+  auth_basic: ""
+
+ambient_weather:
+  api_endpoint: ""
+  api_key: ""
+  application_key: ""
+  location: ""
+  device_mac: ""
+
+mysql:
+  servername: ""
+  username: ""
+  password: ""
+  dbname: ""
+
+sdge:
+  data_path: ""
+
+pgsql:
+  servername: ""
+  port: 5432
+  username: ""
+  password: ""
+  dbname: ""
