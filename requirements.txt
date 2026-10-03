@@ -1,0 +1,6 @@
+influxdb-client
+psycopg2-binary
+pyaml
+pymysql
+requests
+tzdata
